@@ -1,0 +1,9 @@
+.centent-wrapper { 
+}
+
+.centent-wrapper .card .card-body .box-centent-wrapper { 
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    height: 250px;
+}

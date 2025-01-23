@@ -17,6 +17,9 @@
 
 > นำมาแสดงผลในตารางและแผนภูมิ
 
+### YouTube
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/sUVw-4G6K4Q/0.jpg)](https://www.youtube.com/watch?v=sUVw-4G6K4Q)
+
 อ้างอิง
 # https://pythainlp.github.io/tutorials/notebooks/pythainlp_get_started.html
 # https://pythainlp.github.io/tutorials/notebooks/sentiment_analysis.html
